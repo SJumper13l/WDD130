@@ -1,0 +1,32 @@
+.circles {
+    background-size: contain;
+}
+
+main {
+    background-color: gray;
+}
+
+.row{
+    display: flex;
+}
+.column{
+    flex: 33.33%;
+}
+
+
+.deskimg {
+    height: 50%;
+    border-radius: 50%;
+}
+
+
+.logoimg {
+    height: 50%;
+    border-radius: 50%;
+
+}
+
+.personimg {
+    height: 50%;
+    border-radius: 50%;
+}
